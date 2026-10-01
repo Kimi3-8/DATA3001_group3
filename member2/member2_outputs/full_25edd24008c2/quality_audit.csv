@@ -1,0 +1,5 @@
+metric,value
+regional_observations,8138225
+missing_time_rows,0
+duplicate_buoy_time_rows,0
+non_increasing_time_steps_in_source_order,0

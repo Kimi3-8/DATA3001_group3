@@ -1,0 +1,12 @@
+metric,value
+scan_status,Full global scan
+unique_regional_drifters,1481
+regional_observations,8138225
+usable_observations,8138225
+first_observation_utc,1990-11-15 12:00:00
+last_observation_utc,2022-10-31 00:00:00
+median_observations_per_drifter,3812.0
+continuous_segments,5725
+median_continuous_segment_hours,288.0
+drifters_with_24_continuous_hours,1467
+drifters_with_168_continuous_hours,1405

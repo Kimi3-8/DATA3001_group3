@@ -1,0 +1,7 @@
+horizon_hours,history_hours,minimum_observations,eligible_segments,eligible_drifters,candidate_origins
+1,0,2,5618,1479,8132500
+1,24,26,4535,1465,8013370
+24,0,25,4564,1467,8017934
+24,24,49,4145,1455,7913698
+168,0,169,3239,1405,7480347
+168,24,193,3151,1394,7403575

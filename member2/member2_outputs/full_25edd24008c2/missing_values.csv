@@ -1,0 +1,13 @@
+variable,status,missing_count,missing_pct
+time,available,0,0.0
+lat,available,0,0.0
+lon,available,0,0.0
+ve,available,0,0.0
+vn,available,0,0.0
+sst,available,275960,3.390911408814576
+gap,available,0,0.0
+drogue_status,available,0,0.0
+err_lat,available,9928,0.1219922034595996
+err_lon,available,10074,0.12378620645165253
+err_ve,available,812330,9.981660620098364
+err_vn,available,812473,9.983417760015238

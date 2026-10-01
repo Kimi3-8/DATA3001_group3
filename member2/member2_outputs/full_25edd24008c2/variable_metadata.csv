@@ -1,0 +1,15 @@
+variable,available,dimensions,units,description
+id,True,"('traj',)",-,Global Drifter Program Buoy ID
+rowsize,True,"('traj',)",-,Number of observations per trajectory
+time,True,"('obs',)",,Time
+lat,True,"('obs',)",degrees_north,Latitude
+lon,True,"('obs',)",degrees_east,Longitude
+ve,True,"('obs',)",m/s,Eastward velocity
+vn,True,"('obs',)",m/s,Northward velocity
+sst,True,"('obs',)",Kelvin,Fitted sea water temperature
+gap,True,"('obs',)",s,Time interval between previous and next location
+drogue_status,True,"('obs',)",-,Status indicating the presence of the drogue
+err_lat,True,"('obs',)",degrees_north,95% confidence interval in latitude
+err_lon,True,"('obs',)",degrees_east,95% confidence interval in longitude
+err_ve,True,"('obs',)",m/s,95% confidence interval in eastward velocity
+err_vn,True,"('obs',)",m/s,95% confidence interval in northward velocity
