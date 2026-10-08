@@ -35,8 +35,6 @@ Full-scan outputs: [`member2_outputs/full_25edd24008c2/`](member2_outputs/full_2
 | File | Purpose |
 | --- | --- |
 | `gulf_stream_eda.ipynb` | English processing and EDA notebook |
-| `report/member2_report.docx` | One-page English report |
-| `report/member2_report_zh.docx` | Corresponding Chinese report |
 | `member2_outputs/full_25edd24008c2/figures/` | Six EDA figures |
 | `gulf_stream_model_sample.parquet` (in the output directory) | Random 100-drifter development subset, 613,892 records |
 | `manifest.json` (in the output directory) | Full-run source metadata, configuration and package versions |
