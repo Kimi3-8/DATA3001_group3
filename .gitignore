@@ -1,9 +1,0 @@
-.DS_Store
-.ipynb_checkpoints/
-__pycache__/
-.venv/
-~$*
-*.tmp
-*.zip
-**/cache/
-**/gulf_stream_full.parquet
